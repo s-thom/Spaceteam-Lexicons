@@ -34,3 +34,7 @@ You must have backed the Kickstarter at the Ensigneer level or higher in order t
 ## Modifying Others' lexicons
 
 If you're going to make changes to someone else's lexicon, please @mention them in your pull request. If they say "yes" to your changes, then I'm happy to merge them into the master branch.
+
+## Custom Characters
+
+Feel free to include some character templates if it suits the theme of your lexicon. Make sure you have both normal and hand up templates.
