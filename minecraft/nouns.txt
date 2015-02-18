@@ -6,58 +6,80 @@ Diorite
 Andesite
 Grass
 Dirt
-Coarse dirt
+Coarse Dirt
 Podzol
 Cobblestone
+Plank
 Sand
-Red sand
+Red Sand
 Gravel
-Leaf
+Gold Ore
+Iron Ore
+Coal Ore
+Log
+Leaves
 Sponge
 Glass
-Lapis lazuli
+Lapis Lazuli Block
 Sandstone
-Note
+Note Block
 Piston
 Wool
-Gold
-Iron
+Gold Block
+Iron Block
 Brick
 TNT
 Obsidian
-Diamond
+Diamond Ore
+Diamond Block
+Redstone Ore
 Snow
 Ice
 Cactus
 Clay
 Pumpkin
 Netherrack
-Soul sand
+Soul Sand
 Glowstone
-Stained glass
-Stone brick
-Mushroom
-Melon
+Stone Brick
+Mushroom Block
+Melon Block
 Mycelium
-Nether brick
-End stone
-Emerald
-Redstone
-Quartz
-Stained clay
-Slime
+Nether Brick
+End Stone
+Emerald Ore
+Emerald Block
+Redstone Block
+Quartz Block
+Stained Clay
+Slime Block
 Prismarine
-Prismarine brick
-Hay
+Prismarine Brick
+Dark Prismarine
+Sea Lantern
+Hay Bale
+Coal Block
+Packed Ice
+Red Sandstone
+Apple
 Coal
-Packed ice
-Red sandstone
-Plank
-Log
+Charcoal
+Diamond
+Iron Ingot
+Gold Ingot
+Gunpowder
+Wheat
+Flint
+Golden Apple
+Notch Apple
+Redstone
+Snowball
+Leather
+Paper
 Book
-Redstone lamp
-Sea lantern
-Carpet
-Beacon
+Egg
+Cake
+Repeater
 Emerald
-Dragon egg
+Carrot
+Potato

@@ -16,18 +16,27 @@ Convert,Zombie
 Confront,Herobrine
 Craft,Notch Apple
 Dig,Down
+Discover,Desert Temple
+Discover,Desert Village
+Discover,Jungle Temple
+Discover,Ocean Monument
+Discover,Village
 Explore,Cave
 Explore,Nether
 Explode,TNT
 Explode,Village
 Exploit,Villagers
+Exploit,Duplication Bug
 Explore,Wilderness
 Grief,Spawn
 Grief,Village
+Kill,Elder Guardian
 Kill,Ender Dragon
 Kill,Notch
 Kill,Pig
 Kill,Wither
+Loot,Chest
+Loot,Trapped Chest
 Mine,Bedrock
 Mine,Diamond Ore
 Punch,Tree

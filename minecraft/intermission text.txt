@@ -4,10 +4,10 @@
 
 # Introduction
 
-Zombies at your door,
-and the night has just begun.
-Time to form a spaceteam;
-Go out and have some fun.
+Connecting to Server
+Logging In
+Downloading Terrain
+You have joined the game
 
 # Sector
 
@@ -15,7 +15,7 @@ DIMENSION
 
 # Hyperspace
 
-HYPERSPACE!
+Switching Level
 
 # No anomalies detected
 

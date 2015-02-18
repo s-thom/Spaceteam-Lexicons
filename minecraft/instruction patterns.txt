@@ -13,15 +13,15 @@ Set %@ count to Maximum
 
 # Increase ___ to ___
 
-Increase %@s count to %d
+Increase %@ count to %d
 
 # Decrease ___ to ___
 
-Decrease %@s count to %d
+Decrease %@ count to %d
 
 # Asteroid
 
-ASTEROID! (everybody shake)
+DRAGON! (everybody shake)
 
 # Wormhole
 
