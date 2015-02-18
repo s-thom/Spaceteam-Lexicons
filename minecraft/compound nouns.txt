@@ -4,59 +4,5 @@
 
 # Prefix
 
-Stone 
-Granite 
-Diorite 
-Andesite 
-Grass 
-Dirt 
-Coarse dirt 
-Podzol 
-Cobblestone 
-Sand 
-Red sand 
-Gravel 
-Leaf 
-Sponge 
-Glass 
-Lapis lazuli 
-Sandstone 
-Note 
-Piston 
-Wool 
-Gold 
-Iron 
-Brick 
-TNT 
-Obsidian 
-Diamond 
-Snow 
-Ice 
-Cactus 
-Clay 
-Pumpkin 
-Netherrack 
-Soul sand 
-Glowstone 
-Stained glass 
-Stone brick 
-Mushroom 
-Melon 
-Mycelium 
-Nether brick 
-End Stone 
-Emerald 
-Redstone 
-Quartz 
-Stained clay 
-Slime 
-Prismarine 
-Prismarine brick 
-Hay 
-Coal 
-Packed ice 
-Red sandstone 
 
 # Base
-
-block
