@@ -1,0 +1,21 @@
+# Instructions that are given to players.
+# %@ - will be replaced by the control name.
+# %d - will be replaced by the number to set the control to.
+
+
+# Set ___ to ___
+
+
+# Set ___ to maximum
+
+
+# Increase ___ to ___
+
+
+# Decrease ___ to ___
+
+
+# Asteroid
+
+
+# Wormhole

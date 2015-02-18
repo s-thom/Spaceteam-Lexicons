@@ -1,0 +1,17 @@
+# Misc. descriptive and label text that appears between sectors.
+# Don't use more than four or five lines for the Introduction or it will be too long.
+
+
+# Introduction
+
+
+# Sector
+
+
+# Hyperspace
+
+
+# No anomalies detected
+
+
+# Prepare to receive instructions

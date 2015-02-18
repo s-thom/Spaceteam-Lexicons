@@ -1,0 +1,3 @@
+# Format: BUTTON LABEL, PANEL LABEL
+# Each line should contain two parts separated by a comma. 
+# The first part will appear on the button. The second part will be the panel label.
