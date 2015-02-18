@@ -1,0 +1,26 @@
+# Misc. descriptive and label text that appears between sectors.
+# Don't use more than four or five lines for the Introduction or it will be too long.
+
+
+# Introduction
+
+Connecting to Server
+Logging In
+Downloading Terrain
+You have joined the game
+
+# Sector
+
+DIMENSION
+
+# Hyperspace
+
+Switching Level
+
+# No anomalies detected
+
+No anomalies detected
+
+# Prepare to receive instructions
+
+PREPARE TO RECEIVE BUILDING PLANS!

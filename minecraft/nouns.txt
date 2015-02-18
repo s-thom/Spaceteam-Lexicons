@@ -1,0 +1,85 @@
+# One noun per line.
+
+Stone
+Granite
+Diorite
+Andesite
+Grass
+Dirt
+Coarse Dirt
+Podzol
+Cobblestone
+Plank
+Sand
+Red Sand
+Gravel
+Gold Ore
+Iron Ore
+Coal Ore
+Log
+Leaves
+Sponge
+Glass
+Lapis Lazuli Block
+Sandstone
+Note Block
+Piston
+Wool
+Gold Block
+Iron Block
+Brick
+TNT
+Obsidian
+Diamond Ore
+Diamond Block
+Redstone Ore
+Snow
+Ice
+Cactus
+Clay
+Pumpkin
+Netherrack
+Soul Sand
+Glowstone
+Stone Brick
+Mushroom Block
+Melon Block
+Mycelium
+Nether Brick
+End Stone
+Emerald Ore
+Emerald Block
+Redstone Block
+Quartz Block
+Stained Clay
+Slime Block
+Prismarine
+Prismarine Brick
+Dark Prismarine
+Sea Lantern
+Hay Bale
+Coal Block
+Packed Ice
+Red Sandstone
+Apple
+Coal
+Charcoal
+Diamond
+Iron Ingot
+Gold Ingot
+Gunpowder
+Wheat
+Flint
+Golden Apple
+Notch Apple
+Redstone
+Snowball
+Leather
+Paper
+Book
+Egg
+Cake
+Repeater
+Emerald
+Carrot
+Potato
