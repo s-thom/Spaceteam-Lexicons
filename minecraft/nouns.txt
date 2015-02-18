@@ -1,0 +1,11 @@
+# One noun per line.
+
+Plank
+Log
+Book
+Redstone lamp
+Sea lantern
+Carpet
+Beacon
+Emerald
+Dragon egg

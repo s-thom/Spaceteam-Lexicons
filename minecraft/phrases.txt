@@ -1,0 +1,36 @@
+# Format: BUTTON LABEL, PANEL LABEL
+# Each line should contain two parts separated by a comma. 
+# The first part will appear on the button. The second part will be the panel label.
+
+Activate,End Portal
+Activate,Nether Portal
+Activate,Redstone
+Brew,Potions
+Build,Bridge
+Build,Dirt Shack
+Build,Mansion
+Build,Wither
+Climb,Every mountain
+Climb,Tree
+Convert,Zombie
+Confront,Herobrine
+Craft,Notch Apple
+Dig,Down
+Explore,Cave
+Explore,Nether
+Explode,TNT
+Explode,Village
+Exploit,Villagers
+Explore,Wilderness
+Grief,Spawn
+Grief,Village
+Kill,Ender Dragon
+Kill,Notch
+Kill,Pig
+Kill,Wither
+Mine,Bedrock
+Mine,Diamond Ore
+Punch,Tree
+Right Click,Dragon Egg
+Stare at,Enderman
+Throw,Enderpearl

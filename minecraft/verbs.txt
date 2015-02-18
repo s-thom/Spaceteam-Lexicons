@@ -1,0 +1,13 @@
+# One verb per line.
+
+Mine
+Craft
+Build
+Dig
+Place
+Dig
+Mob-proof
+Punch
+Construct
+Trade
+Find

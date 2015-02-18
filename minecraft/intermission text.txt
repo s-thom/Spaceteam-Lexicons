@@ -1,0 +1,26 @@
+# Misc. descriptive and label text that appears between sectors.
+# Don't use more than four or five lines for the Introduction or it will be too long.
+
+
+# Introduction
+
+Zombies at your door,
+and the night has just begun.
+Time to form a spaceteam;
+Go out and have some fun.
+
+# Sector
+
+DIMENSION
+
+# Hyperspace
+
+HYPERSPACE!
+
+# No anomalies detected
+
+No anomalies detected
+
+# Prepare to receive instructions
+
+PREPARE TO RECEIVE BUILDING PLANS!
