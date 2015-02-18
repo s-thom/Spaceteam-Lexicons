@@ -1,0 +1,14 @@
+# Names of medals awarded at the end of the game to players who didn't do anything particularly well OR poorly.
+
+attendance
+participation
+competence
+teamwork
+effort
+cooperation
+synergy
+bravery
+courage
+earnestness
+determination
+special talents

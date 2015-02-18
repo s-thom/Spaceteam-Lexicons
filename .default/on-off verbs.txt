@@ -1,0 +1,8 @@
+# Format: ON VERB, OFF VERB
+# Each line should contain two words separated by a comma. 
+# The first word is the "On" verb. The second word is the corresponding "Off" verb.
+
+Activate,Deactivate
+Engage,Disengage
+Turn on,Turn off
+Enable,Disable

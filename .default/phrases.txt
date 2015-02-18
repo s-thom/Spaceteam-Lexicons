@@ -1,0 +1,196 @@
+# Format: BUTTON LABEL, PANEL LABEL
+# Each line should contain two parts separated by a comma. 
+# The first part will appear on the button. The second part will be the panel label.
+
+Wash,Dishes
+Brush,Teeth
+Unclog,Toilet
+Sort,Laundry
+Brew,Coffee
+Infuse,Tea
+Shred,Documents
+File,Taxes
+Match,Socks
+Sweep,Kitchen
+Fluff,Pillows
+Refill,Soap
+Scoop,Litterbox
+Polish,Silverware
+Water,Plants
+Empty,Spit-valve
+Adjudicate,Pageant
+Empty,Garbage
+Empty,Recycling
+Peel,Potatoes
+Check,Soufflé
+Clean,Windshield
+Polish,Mirrors
+Recharge,Batteries
+Mop,Floors
+Wax,Floors
+Oil,Squeaky Door
+Grease,Pans
+Untangle,Wires
+Collect,Mail
+Register,Software
+Hang,Pictures
+Stack,Boxes
+Tune,Piano
+Shuffle,Cards
+Entertain,Dignitaries
+Entertain,Guests
+Entertain,Passengers
+Sedate,Passengers
+Comfort,Passengers
+Interview,Test Subjects
+Bribe,Officials
+Jettison,Cargo
+Fold,Towels
+Update,Ship's Log
+Kick,Jukebox
+Change,Filter
+Sequence,Genome
+Make,Contingency Plans
+Plan,Weekend
+Schedule,Activities
+Backup,Hard Drive
+Mail in,Rebates
+Sell,Stocks
+Buy,Insurance
+Appreciate,Artwork
+Inventory,Cargo
+Itemize,Bills
+Balance,Accounts
+Stockpile,Food
+Test,Hypothesis
+Install,Shelves
+Adjust,Clock
+Wind,Clocks
+Honk,Spacehorn
+Cancel,Subscriptions
+Update,Software
+Replace,Ink Cartridges
+Plunge,Toilet
+Clean,Eavestroughs
+Remodel,Kitchen
+Contemplate,Existence
+Drown,Sorrows
+Consider,Purchasing Upgrades
+Feed,Fish
+Feed,Livestock
+Wrap,Presents
+Refrigerate,Leftovers
+Fasten,Seatbelts
+Distribute,Earbuds
+Address,Complaints
+Discuss,Options
+Eulogize,Previous Crew
+Welcome,Hitchhikers
+Pay,Gas Bill
+Rearrange,Deckchairs
+Alphabetize,Bookshelf
+Make,Sandwiches
+Hide,Valuables
+Stow,Tray Tables
+Calculate,Chances of Survival
+Pay,Speeding Fines
+Reticulate,Splines
+Take,Evasive Maneuvers
+Raise,Shields
+Divert,Power
+Overclock,Engines
+Overload,Reactor
+Contain,Explosion
+Catalyze,Reaction
+Prevent,Accident
+Tie down,Heavy Objects
+Boil,Kettle
+Wake up,Cryosleepers
+Caramelize,Onions
+Straighten,Picture Frames
+Count,Stars
+Disconnect,Phone Lines
+Mince,Meat
+Release,Prisoners
+Release,The Hounds
+Forgive,Wrongdoers
+Ignore,Thing Behind Us
+Avoid,Mysterious Door
+Forget,Incident
+Brace,Yourselves
+Open,Hailing Frequency
+Declare,Emergency
+Register,Complaints
+Send,Distress Call
+Adjust,Course
+Remain,Calm
+Maintain,Professionalism
+Stop,Panicking
+Appoint,New Management
+Elect,Board Members
+Form,Committee
+Build,Consensus
+Clean up,Vomit
+Clean up,Mess
+Disguise,Mess
+Recycle,E-waste
+Boost,Morale
+Keep up,The Good Work
+Stoke,Furnace
+Shovel,Coal
+Align,Quarks
+Entangle,Quarks
+Decrypt,Transmission
+Resolve,Paradox
+Mend,Spacetime Continuum
+Escape,Timeloop
+Frog Blast,The Vent Core
+Cross,The Streams
+Discover,Stowaways
+Consult,Starmap
+Quell,Robot Uprising
+Discourage,Mutiny
+Darn,Socks
+Question,Beliefs
+Refill,Drinks
+Pull,Yourself Together
+Exercise,Caution
+Regret,Career Choice
+Vent,Frustration
+Suspend,Disbelief
+Rationalize,Choices
+Prepare,Excuses
+Blame,Society
+Return,Library Books
+Defend,Thesis
+Propose,Alternatives
+Deconstruct,Postmodernism
+Evacuate,Bowels
+Thwart,Impending Doom
+Resist,Urges
+Count,Blessings
+Rewind,Videotapes
+Swallow,Pride
+Break,Prime Directive
+Feed,Space Hamster
+Establish,First Contact
+Change,Lightbulb
+Save,Galaxy
+Respect,Local Customs
+Ignore,Strange Noises
+Disobey,Direct Orders
+Fire,Afterburners
+Play,Video Games
+Read,Manual
+Use,The Force
+Defragment,Hard Drive
+Write,Fanfiction
+Engage in,Reckless Behaviour
+1.21,Gigawatts!??
+Call For,Desperate Measures
+Cut Through,Red Tape
+Prepare to,Receive Instructions
+Stop,Shouting
+Furrow,Brow
+Add,Detergent
+Add,Fabric Softener

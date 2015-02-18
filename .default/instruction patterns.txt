@@ -1,0 +1,29 @@
+# Instructions that are given to players.
+# %@ - will be replaced by the control name.
+# %d - will be replaced by the number to set the control to.
+
+
+# Set ___ to ___
+
+Set %@ to %d
+
+# Set ___ to maximum
+
+Set %@ to Maximum
+Set %@ to Full Power
+
+# Increase ___ to ___
+
+Increase %@ to %d
+
+# Decrease ___ to ___
+
+Decrease %@ to %d
+
+# Asteroid
+
+ASTEROID! (everybody shake)
+
+# Wormhole
+
+WORMHOLE! (everybody flip)

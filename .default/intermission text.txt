@@ -1,0 +1,26 @@
+# Misc. descriptive and label text that appears between sectors.
+# Don't use more than four or five lines for the Introduction or it will be too long.
+
+
+# Introduction
+
+Don't worry, the ship flies itself.
+Just follow the instructions.
+And remember to work together...
+...as a spaceteam.
+
+# Sector
+
+SECTOR
+
+# Hyperspace
+
+HYPERSPACE!
+
+# No anomalies detected
+
+No anomalies detected
+
+# Prepare to receive instructions
+
+PREPARE TO RECEIVE INSTRUCTIONS!
