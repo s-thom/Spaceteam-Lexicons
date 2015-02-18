@@ -28,4 +28,9 @@ You must have backed the Kickstarter at the Ensigneer level or higher in order t
   
 6. Submit a pull request
 
-7. Don't forget to apply your changes on the lexicogulator page
+7. Don't forget to apply your changes on the lexicogulator page  
+  Note: I am not responsible for other people's lexicons. If your favourite lexicon hasn't updated, don't blame me.
+
+## Modifying Others' lexicons
+
+If you're going to make changes to someone else's lexicon, please @mention them in your pull request. If they say "yes" to your changes, then I'm happy to merge them into the master branch.
