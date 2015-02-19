@@ -1,0 +1,66 @@
+# Format: BUTTON LABEL, PANEL LABEL
+# Each line should contain two parts separated by a comma. 
+# The first part will appear on the button. The second part will be the panel label.
+
+Unclog,Dunny
+Boil,Billy
+Squeeze Into,Stubbies
+Peel,Spuds
+Put Up,Fence
+Watch,Footy
+Play,Two-Up
+Stone,Crows
+Stun,Mullet
+Spit,Dummy
+Go,Troppo
+Go,Walkabout
+Go,Surfing
+Wag,School
+Wash,Stubbies
+Dig,Hole
+Start,Patio
+Read,Trading Post
+Tell 'Em,They're Dreamin'
+Drive,For Miles
+Round Up,Sheep
+Milk,Cows
+Shear,Sheep
+Pull,Sickie
+Tell,Skites
+Have A,Sook
+Chuck,U-ie
+Chuck,Wobbly
+Fight,Bushfire
+Rack,Off
+Your,Shout
+Mind,Bizzo
+Say,G'Day
+Yell,Cooee
+Watch,Rage
+Listen,Triple J
+Cut Down,Tall Poppies
+Take,Screamer
+Come,A Gutser
+Pass The,Dead Horse
+Take,A Butchers
+Yell At,Umpire
+Ridgy,Didge
+Run Over,Cane Toad
+BYO,Beers
+Swat,Flies
+Eat,Vegemite
+Steal,Loaf Of Bread
+Lay,Burnout
+Introduce,New Species
+Suck Out,Poison
+Light,BBQ
+Eat,Pie Floater
+Call,Flying Doctor
+Drive,Ute
+Play,Didgeridoo
+Sing,Waltzing Matilda
+Stop,Shouting
+Mention,The Serenity
+Sing,Bonnie Doon
+Compulsorily,Acquire
+Kick,Goal
