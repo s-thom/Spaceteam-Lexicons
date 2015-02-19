@@ -1,0 +1,31 @@
+# Instructions that are given to players.
+# %@ - will be replaced by the control name.
+# %d - will be replaced by the number to set the control to.
+
+
+# Set ___ to ___
+
+Set %@ to %d
+
+# Set ___ to maximum
+
+Set %@ to full throttle!
+Set %@ to flat out!
+Set %@ to max!
+
+# Increase ___ to ___
+
+Dial up %@ to %d
+Crank up %@ to %d
+
+Dial down %@ to %d
+
+Decrease %@ to %d
+
+# Asteroid
+
+DINGO! (everybody shake)
+
+# Wormhole
+
+STREWTH! (everybody flip)

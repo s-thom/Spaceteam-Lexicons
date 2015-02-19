@@ -1,0 +1,25 @@
+# Misc. descriptive and label text that appears between sectors.
+# Don't use more than four or five lines for the Introduction or it will be too long.
+
+
+# Introduction
+
+You're on an aussie spaceship,
+and you're about to be flat out like a lizard drinking!
+Hooley dooley!
+
+# Sector
+
+BILLABONG
+
+# Hyperspace
+
+BEACH TIME!
+
+# No anomalies detected
+
+Nothing at all will happen for the next 3000 k's
+
+# Prepare to receive instructions
+
+Something's coming over the CB radio...
